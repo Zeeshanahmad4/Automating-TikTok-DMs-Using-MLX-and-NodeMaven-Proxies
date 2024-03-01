@@ -1,3 +1,13 @@
-# Logs
+# TikTok DM Automation Logs
 
-This file can be used to store logs.
+# This file will capture logs related to the automation of TikTok DMs, 
+# including messages sent and received, errors, and other system events.
+
+# Logs are appended here in the following format:
+# [Timestamp] [Log Level] [Module] - [Message]
+
+# Example:
+# 2024-03-01 12:00:00 INFO selenium_automation - Logged into TikTok account successfully.
+# 2024-03-01 12:05:00 ERROR mlx_integration - Failed to switch MLX profile.
+
+# Note: This file is initially empty and will populate with log entries as the system runs.
