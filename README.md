@@ -45,7 +45,42 @@ TikTok Direct Messenger is a sophisticated system designed for automating the pr
 
 ## Features
 - 🤖💬 **Automated DMs**: Send and receive messages automatically.
-- MLX Integration: Manage multiple TikTok accounts efficiently.
-- NodeMaven Proxies: Ensure anonymity and security.
-- Scalable: Handles high volume of messages effortlessly.
-- User-Friendly UI: Easy monitoring and management.
+- 🔄📱 **MLX Integration**: Manage multiple TikTok accounts efficiently.
+- 🛡️🔄 **NodeMaven Proxies**: Ensure anonymity and security.
+- 🚀 **Scalable**: Handles high volume of messages effortlessly.
+- 🖥️👤 **User-Friendly UI**: Easy monitoring and management.
+
+## Future Enhancements (To-Do):
+- 📈 Analytics Dashboard: Track messaging trends and performance.
+- 🌐 Multi-Language Support: Expand user base with additional language options.
+- 📱 Mobile App Version: Develop a mobile-friendly version of the system.
+- 📊 Advanced Reporting: Include detailed reporting features for better insights.
+
+## Requirements
+- Python 3.x
+- Selenium WebDriver
+- MLX Account
+- NodeMaven Proxies Subscription
+
+## Usage Examples
+```python
+# Example of sending a DM using the automation script 
+```
+from selenium_automation import TikTokDM
+dm_bot = TikTokDM()
+dm_bot.send_message('username123', 'Hello from TikTok Direct Messenger!')
+
+## Setup and Installation Instructions
+Clone the repository.
+Install required Python packages: ```pip install -r requirements.txt```
+Configure MLX and NodeMaven settings in ```config.txt```.
+Run ```setup.bat``` to set up the project structure.
+Execute ```python tiktok_dm_automation/main.py``` to start the automation.
+
+## Troubleshooting Tips
+- Ensure all dependencies are correctly installed.
+- Check proxy settings if experiencing connectivity issues.
+- Refer to logs for error details.
+
+## Contribution Guidelines
+
