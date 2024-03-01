@@ -1,3 +1,31 @@
-# Configuration settings
+# TikTok DM Automation Configuration File
 
-Add your configuration settings here.
+# MLX Profile Configuration
+[MLX_Config]
+profile1_name = YourProfileName1
+profile1_path = Path/To/YourProfile1
+profile2_name = YourProfileName2
+profile2_path = Path/To/YourProfile2
+# Add additional profiles as needed
+
+# NodeMaven Proxy Configuration
+[NodeMaven_Proxy]
+proxy1_ip = 192.168.0.1
+proxy1_port = 8080
+proxy1_username = user1
+proxy1_password = pass1
+proxy2_ip = 192.168.0.2
+proxy2_port = 8080
+proxy2_username = user2
+proxy2_password = pass2
+# Add additional proxies as needed
+
+# Selenium Settings
+[Selenium_Settings]
+webdriver_path = Path/To/Your/Webdriver
+headless_mode = True
+# Set to False if you want to see the browser window
+
+# Other Settings
+[Other_Settings]
+log_file_path = Path/To/Log/File
