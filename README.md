@@ -83,4 +83,11 @@ Execute ```python tiktok_dm_automation/main.py``` to start the automation.
 - Refer to logs for error details.
 
 ## Contribution Guidelines
+We welcome contributions from the community to enhance and improve the TikTok DM Automation project. If you're interested in contributing, please follow these guidelines:
 
+1. **Fork the Repository:** Fork the repository to your GitHub account.
+
+2. **Clone the Repository:** Clone the forked repository to your local machine using Git.
+
+   ```bash
+   git clone https://github.com/your-username/tiktok-dm-automation.git
