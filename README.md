@@ -90,4 +90,4 @@ We welcome contributions from the community to enhance and improve the TikTok DM
 2. **Clone the Repository:** Clone the forked repository to your local machine using Git.
 
    ```bash
-   git clone https://github.com/your-username/tiktok-dm-automation.git
+   git clone [https://github.com/your-username/tiktok-dm-automation.git](https://github.com/Zeeshanahmad4/Automating-TikTok-DMs-Using-MLX-and-NodeMaven-Proxies)https://github.com/Zeeshanahmad4/Automating-TikTok-DMs-Using-MLX-and-NodeMaven-Proxies
