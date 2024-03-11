@@ -93,4 +93,4 @@ We welcome contributions from the community to enhance and improve the TikTok DM
    git clone https://github.com/Zeeshanahmad4/Automating-TikTok-DMs-Using-MLX-and-NodeMaven-Proxies
 
 
-Unlock the potential of your browsing experience with NodeMaven! Get an extra +2GB of free traffic with our exclusive coupon B2B when purchasing any trial or package. Elevate your online presence and enjoy seamless browsing with NodeMaven's cutting-edge proxies. Visit https://go.nodemaven.com/proxies22 to claim your offer now!
+Unlock the potential of your browsing experience with NodeMaven! Get an extra +2GB of free traffic with our exclusive coupon BB2 when purchasing any trial or package. Elevate your online presence and enjoy seamless browsing with NodeMaven's cutting-edge proxies. Visit https://go.nodemaven.com/proxies22 to claim your offer now!
